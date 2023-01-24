@@ -13,5 +13,6 @@ complexidade dos algoritmos envolvidos, usando a notação O.
 
 Informalmente, podemos dizer que existem três maneira des reservar memória para o armazenamento de informações.
 
-- Uso de variáveis globais e estáticas o espaexiste enquanto o programa estiver sendo executado.
+- Uso de variáveis globais e estáticas o espaço existe enquanto o programa estiver sendo executado.
 - Variáveis locais(Pilha): o espaço esxiste enquanto a função que declarou a variável estiver sendo executado, sendo liberado para outros usos quando a execução da função termina.
+- Requisitando ao sistema em tempo de execução um espaço de memória de determinado tamanho, o espaço alocado dinamicamente permanece reservado até que seja explicitamnete liberado
