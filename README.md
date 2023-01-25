@@ -30,3 +30,13 @@ Os ponteiros oferecem meios de alterarmos valores de variáveis acessando-as ind
 - As funções não podem alterar diretamente valores de variáveis da função que fez a chamada
 - Podemos passar para a função os valores dos endereçoes de memória onde suas variáveis estão armazenadas
 
+### Vetores
+
+Usados para armazenar um conjunto de valores na memória do computador
+
+- Os valores são armazenados em sequência, um após o outro
+- É possível acessar qualquer valor do conjunto diretamente
+- Ao declara um vetor, devemos informar o número máximo de elementos que poderá ser armazenado
+- Tipo homogênio de dado: num vetor, só podemos armazenar valores do mesmo tipo
+
+
